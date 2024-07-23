@@ -1,3 +1,3 @@
-Its a 360 days challenge 
-Come join with me
+Its a 360 days challenge \n
+Come join with me \n
 day1-done
