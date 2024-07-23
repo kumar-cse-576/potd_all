@@ -17,8 +17,6 @@ Test Case 1:
 ‘STR’ = “when all else fails reboot”
 The reverse order of words in ‘STR’ is: “reboot fails else all when”.
 */
-
-
 string reverseOrderWords(string s) {
     int i=s.size()-1,st=0;
     string t="",r="";
