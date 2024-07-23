@@ -1,0 +1,4 @@
+- [ ] **Day 1:** [27-07-2024]
+  - <input type="checkbox" disabled> Coding Ninjas
+  - <input type="checkbox" disabled> LeetCode
+  - <input type="checkbox" disabled> GeeksforGeeks
